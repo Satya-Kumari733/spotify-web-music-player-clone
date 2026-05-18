@@ -13,3 +13,6 @@ A responsive Spotify web music player built using HTML and CSS.
 - HTML
 - CSS
 
+##Live Demo
+Check the live project here:
+https://spotify-web-music-player.vercel.app/
