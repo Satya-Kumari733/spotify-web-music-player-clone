@@ -1,6 +1,6 @@
 # Spotify Web Music Player
 
-A responsive Spotify web music player built using HTML and CSS.
+A responsive Spotify-inspired web music player UI built using HTML and CSS.
 
 ## Features
 - Responsive design
